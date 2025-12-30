@@ -11,11 +11,11 @@ This repository contains files and documents related to the **design and structu
 
 ## About
 
-Cable-stayed bridges are a type of long-span bridge where the deck is directly supported by cables connected to towers. This project includes modelling, analysis, and design results for such a bridge using appropriate engineering tools and methods. ([IJSREM][1])
+Cable-stayed bridges are a type of long-span bridge where the deck is directly supported by cables connected to towers. This project includes modelling, analysis, and design results for such a bridge using appropriate engineering tools and methods. 
 
 ## Tools & Software
 
-* STAAD.Pro (or similar structural analysis software)
+* STAAD.Pro 
 * Microsoft PowerPoint
 * PDF viewers/readers
 
